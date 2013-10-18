@@ -1,0 +1,97 @@
+ 100  1.36042300e+00
+ 125  1.39968300e+00
+ 150  1.43405000e+00
+ 175  1.46463800e+00
+ 200  1.49237000e+00
+ 225  1.51828600e+00
+ 250  1.54195500e+00
+ 275  1.56416600e+00
+ 300  1.58558000e+00
+ 325  1.60568900e+00
+ 350  1.62485700e+00
+ 375  1.64313100e+00
+ 400  1.66062600e+00
+ 425  1.67738500e+00
+ 450  1.69355500e+00
+ 475  1.70910900e+00
+ 500  1.72407900e+00
+ 525  1.73854000e+00
+ 550  1.75244600e+00
+ 575  1.76589700e+00
+ 600  1.77890000e+00
+ 625  1.79143900e+00
+ 650  1.80356800e+00
+ 675  1.81529900e+00
+ 700  1.82663700e+00
+ 725  1.83758100e+00
+ 750  1.84814500e+00
+ 775  1.85837200e+00
+ 800  1.86826200e+00
+ 825  1.87784200e+00
+ 850  1.88712700e+00
+ 875  1.89612000e+00
+ 900  1.90483500e+00
+ 925  1.91330700e+00
+ 950  1.92153200e+00
+ 975  1.92950800e+00
+1000  1.93725300e+00
+1025  1.94478900e+00
+1050  1.95213100e+00
+1075  1.95929800e+00
+1100  1.96630000e+00
+1125  1.97314800e+00
+1150  1.97985900e+00
+1175  1.98644500e+00
+1200  1.99291000e+00
+1225  1.99928000e+00
+1250  2.00556500e+00
+1275  2.01177800e+00
+1300  2.01793300e+00
+1325  2.02404300e+00
+1350  2.03011800e+00
+1375  2.03617000e+00
+1400  2.04221400e+00
+1425  2.04826100e+00
+1450  2.05431900e+00
+1475  2.06040000e+00
+1500  2.06651500e+00
+1525  2.07263000e+00        # by linear extrapolation in Mathematica
+1550  2.07874500e+00        # by linear extrapolation in Mathematica
+1575  2.08486000e+00        # by linear extrapolation in Mathematica
+1600  2.09097500e+00        # by linear extrapolation in Mathematica
+1625  2.09709000e+00        # by linear extrapolation in Mathematica
+1650  2.10320500e+00        # by linear extrapolation in Mathematica
+1675  2.10932000e+00        # by linear extrapolation in Mathematica
+1700  2.11543500e+00        # by linear extrapolation in Mathematica
+1725  2.12155000e+00        # by linear extrapolation in Mathematica
+1750  2.12766500e+00        # by linear extrapolation in Mathematica
+1775  2.13378000e+00        # by linear extrapolation in Mathematica
+1800  2.13989500e+00        # by linear extrapolation in Mathematica
+1825  2.14601000e+00        # by linear extrapolation in Mathematica
+1850  2.15212500e+00        # by linear extrapolation in Mathematica
+1875  2.15824000e+00        # by linear extrapolation in Mathematica
+1900  2.16435500e+00        # by linear extrapolation in Mathematica
+1925  2.17047000e+00        # by linear extrapolation in Mathematica
+1950  2.17658500e+00        # by linear extrapolation in Mathematica
+1975  2.18270000e+00        # by linear extrapolation in Mathematica
+2000  2.18881500e+00        # by linear extrapolation in Mathematica
+2025  2.19493000e+00        # by linear extrapolation in Mathematica
+2050  2.20104500e+00        # by linear extrapolation in Mathematica
+2075  2.20716000e+00        # by linear extrapolation in Mathematica
+2100  2.21327500e+00        # by linear extrapolation in Mathematica
+2125  2.21939000e+00        # by linear extrapolation in Mathematica
+2150  2.22550500e+00        # by linear extrapolation in Mathematica
+2175  2.23162000e+00        # by linear extrapolation in Mathematica
+2200  2.23773500e+00        # by linear extrapolation in Mathematica
+2225  2.24385000e+00        # by linear extrapolation in Mathematica
+2250  2.24996500e+00        # by linear extrapolation in Mathematica
+2275  2.25608000e+00        # by linear extrapolation in Mathematica
+2300  2.26219500e+00        # by linear extrapolation in Mathematica
+2325  2.26831000e+00        # by linear extrapolation in Mathematica
+2350  2.27442500e+00        # by linear extrapolation in Mathematica
+2375  2.28054000e+00        # by linear extrapolation in Mathematica
+2400  2.28665500e+00        # by linear extrapolation in Mathematica
+2425  2.29277000e+00        # by linear extrapolation in Mathematica
+2450  2.29888500e+00        # by linear extrapolation in Mathematica
+2475  2.30500000e+00        # by linear extrapolation in Mathematica
+2500  2.31111500e+00        # by linear extrapolation in Mathematica
